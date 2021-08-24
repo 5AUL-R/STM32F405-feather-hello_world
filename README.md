@@ -1,6 +1,7 @@
 # STM32F405-feather-hello_world
 Example of how to program the STM324F05 feather express board to blink an LED and print to serial with STM32CubeIDE on Ubuntu  
 This is just an example from loosely follow this [guide](https://www.digikey.co.nz/en/maker/projects/making-a-temperature-logger-with-the-adafruit-feather-stm32f405-express/11ea860d54074a19bb75cb6425e6d0b0) from Shawn Hymel on how to use the board  
+The directory "feather-setup" should be placed in your STM32CubeIDE workspace for this to work
 # Quick points
 ## Setup/configure the board in IDE
 Configure I/O  
